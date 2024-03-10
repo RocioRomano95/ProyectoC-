@@ -1,0 +1,6 @@
+@ProyectoDeCSharp_HostAddress = http://localhost:5274
+
+GET {{ProyectoDeCSharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
